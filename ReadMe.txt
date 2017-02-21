@@ -1,4 +1,4 @@
-Hey gus nice to see you
+Hey guys nice to see you
 - IDE: Microsoft Visual Studio 2013
 - Microsoft Windows 10
 
